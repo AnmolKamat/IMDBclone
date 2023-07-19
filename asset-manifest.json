@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/IMDBclone/static/css/main.6743ed3b.css",
+    "main.js": "/IMDBclone/static/js/main.1eb28307.js",
+    "static/js/496.bc7cb839.chunk.js": "/IMDBclone/static/js/496.bc7cb839.chunk.js",
+    "static/media/bg.png": "/IMDBclone/static/media/bg.6c262064ee0f57b82411.png",
+    "static/media/logo.svg": "/IMDBclone/static/media/logo.4ac0447e3a8e91343758a0c73ea29048.svg",
+    "index.html": "/IMDBclone/index.html",
+    "main.6743ed3b.css.map": "/IMDBclone/static/css/main.6743ed3b.css.map",
+    "main.1eb28307.js.map": "/IMDBclone/static/js/main.1eb28307.js.map",
+    "496.bc7cb839.chunk.js.map": "/IMDBclone/static/js/496.bc7cb839.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6743ed3b.css",
+    "static/js/main.1eb28307.js"
+  ]
+}
